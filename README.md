@@ -4,9 +4,6 @@ Este repositorio busca ser la concentración de los diferentes Comandos usados p
 
 Este repositorio tiene como visión principal llegar a ser una fuente de apoyo para los profesionales de Redes y Telecomunicaciones que laboran y trabajan en dicha área
 
-<div align="center">
-    <img src=""> 
-</div>
 
 **Tabla de Contenido**
 
